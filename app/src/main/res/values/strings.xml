@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gestion Depenses</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="lister">Lister</string>
+    <string name="gestion_des_d_penses">Gestion des Dépenses</string>
+    <string name="edition">Edition</string>
+    <string name="co_t_du_vol">Coût du Vol :</string>
+    <string name="montant">Montant</string>
+    <string name="h_bergement">Hébergement :</string>
+    <string name="restaurant">Restaurant :</string>
+    <string name="retour">Retour</string>
+    <string name="calculer">Calculer</string>
+    <string name="err_champ_vide">Ce montant est obligatoire</string>
+    <string name="err_montant_negatif">Le montant doit être positif</string>
+    <string name="err_total_nul">Au moins un montant doit être supérieur à zéro</string>
+    <string name="apercu">Apercu</string>
+    <string name="total">Total</string>
+    <string name="taux">Taux</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="modifier">Modifier</string>
+    <string name="cout_vol">Coût du vol</string>
+    <string name="hebergement">Hébergement</string>
+    <string name="contribution">Contribution</string>
+    <string name="msg_enregistre">Dépense enregistrée</string>
+    <string name="liste">Liste des dépenses enregistrées</string>
+    <string name="msg_aucune_depense">Aucune dépense enregistrée</string>
+</resources>
